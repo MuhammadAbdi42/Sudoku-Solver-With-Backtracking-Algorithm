@@ -1,0 +1,14 @@
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\bin\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.exe
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\bin\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.deps.json
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\bin\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.runtimeconfig.json
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\bin\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.dll
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\bin\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.pdb
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.AssemblyInfoInputs.cache
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.AssemblyInfo.cs
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.dll
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\refint\Sudoku Solver with Backtracking Algorithm.dll
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.pdb
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\Sudoku Solver with Backtracking Algorithm.genruntimeconfig.cache
+C:\Users\abdim\Desktop\Sudoku\Sudoku-Solver-With-Backtracking-Algorithm\Sudoku Solver with Backtracking Algorithm\obj\Debug\net8.0\ref\Sudoku Solver with Backtracking Algorithm.dll
