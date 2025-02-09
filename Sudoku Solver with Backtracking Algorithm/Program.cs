@@ -159,7 +159,8 @@ public class Suduko
 
         Console.WriteLine("Another one? (y/n)");
         c = Console.ReadKey().KeyChar;
-        if (c == 'y' || c == 'Y') Start();
+        if (c == 'y' || c == 'Y' || c=='\r') Start();
+        else System.Environment.Exit(0);
 
         Console.ReadLine();
     }
