@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sudoku Solver with Backtracking Algorithm")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37eca497e11aa8bdef457f2b1ae51d0687ae5b03")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+138544262f8960edf311265daf5d617dd4ec9d49")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sudoku Solver with Backtracking Algorithm")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sudoku Solver with Backtracking Algorithm")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
