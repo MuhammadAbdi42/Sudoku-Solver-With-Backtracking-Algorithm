@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/MuhammadAbdi42/Sudoku-Solver-With-Backtracking-Algorithm/blob/main/Sudoku%20Solver%20with%20Backtracking%20Algorithm/Showcase%20Gif.gif?raw=true" alt="Sudoku Solver Showcase Gif"/>
+</p>
+
 # Sudoku Solver
 
 A C# implementation of a Sudoku solver using the **Backtracking Algorithm**. This solver supports both **9x9** and **16x16** Sudoku puzzles.
