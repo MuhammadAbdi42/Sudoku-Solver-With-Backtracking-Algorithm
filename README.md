@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/MuhammadAbdi42/Sudoku-Solver-With-Backtracking-Algorithm/blob/main/Sudoku%20Solver%20with%20Backtracking%20Algorithm/Showcase%20Gif.gif?raw=true" alt="Sudoku Solver Showcase Gif"/>
+  <img src="https://github.com/MuhammadAbdi42/Sudoku-Solver-With-Backtracking-Algorithm/blob/main/Showcase%20Gif.gif" alt="Sudoku Solver Showcase Gif"/>
 </p>
 
 # Sudoku Solver
